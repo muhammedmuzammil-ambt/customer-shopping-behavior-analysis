@@ -47,13 +47,6 @@ KPIs: 3.9K customers · $59.76 average purchase amount · 3.75 average review ra
 - Promote Express shipping, which correlates with higher spend
 - Leverage top-rated products (Gloves, Sandals, Boots) in merchandising
 
-## Repository Structure
-├── data/ Raw dataset
-├── notebooks/ Python data cleaning & modeling
-├── sql/ Business-question SQL queries
-├── dashboard/ Power BI dashboard + screenshot
-└── report/ Project presentation
-
 ## How to Reproduce
 
 1. Run `notebooks/Analysis.ipynb` to clean the data and load it into PostgreSQL
